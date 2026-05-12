@@ -1,0 +1,68 @@
+{
+    "PaviaU": {
+        "path": "PaviaU",
+        "file_name": "PaviaU.mat",
+        "mat_name": "paviaU",
+        "gt_file_name": "PaviaU_gt.mat",
+        "gt_mat_name": "paviaU_gt",
+        "image_width": 340,
+        "image_height": 610,
+        "bands_num": 103,
+        "num_classes": 9
+    },
+    "Pavia": {
+        "path": "Pavia",
+        "file_name": "Pavia.mat",
+        "mat_name": "pavia",
+        "gt_file_name": "Pavia_gt.mat",
+        "gt_mat_name": "pavia_gt",
+        "image_width": 1096,
+        "image_height": 715,
+        "bands_num": 102,
+        "num_classes": 9
+    },
+    "Salinas": {
+        "path": "Salinas",
+        "file_name": "Salinas_corrected.mat",
+        "mat_name": "salinas_corrected",
+        "gt_file_name": "Salinas_gt.mat",
+        "gt_mat_name": "salinas_gt",
+        "image_width": 512,
+        "image_height": 217,
+        "bands_num": 204,
+        "num_classes": 16
+    },
+    "IP": {
+        "path": "IP",
+        "file_name": "indian_pines_corrected.mat",
+        "mat_name": "indian_pines_corrected",
+        "gt_file_name": "indian_pines_gt.mat",
+        "gt_mat_name": "indian_pines_gt",
+        "image_width": 145,
+        "image_height": 145,
+        "bands_num": 200,
+        "num_classes": 16
+    },
+    "HT": {
+        "path": "HT",
+        "file_name": "Houston.mat",
+        "mat_name": "Houston",
+        "gt_file_name": "Houston_gt.mat",
+        "gt_mat_name": "Houston_gt",
+        "image_width": 1905,
+        "image_height": 349,
+        "bands_num": 144,
+        "num_classes": 15
+    },
+    "LongKou": {
+        "path": "LongKou",
+        "file_name": "WHU_Hi_LongKou.mat",
+        "mat_name": "WHU_Hi_LongKou",
+        "gt_file_name": "WHU_Hi_LongKou_gt.mat",
+        "gt_mat_name": "WHU_Hi_LongKou_gt",
+        "image_width": 400,
+        "image_height": 550,
+        "bands_num": 270,
+        "num_classes": 9
+    }
+}
